@@ -1,7 +1,7 @@
 ### About me:
 
 - I am learning C#
-- I hate Fuck John Riccitiello
+- I fucking hate John Riccitiello but love Unity
 
 ## Contact
 **Discord**  Joelbu

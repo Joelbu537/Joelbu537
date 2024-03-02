@@ -1,4 +1,4 @@
-### About me:
+# About me:
 
 - I am learning C#
 - I fucking hate John Riccitiello but love Unity

@@ -1,8 +1,9 @@
-# About me:
-
-- I am learning C#
-- I fucking hate John Riccitiello but love Unity
+# Things I am learning:
+- C#
+- SQL
+- Unity
+- XAML
 
 ## Contact
 - **Discord**  Joelbu
-- **Reddit**   Joelbu537 (I don't use Reddit sh why put this here idk)
+- 

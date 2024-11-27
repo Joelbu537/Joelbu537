@@ -4,8 +4,9 @@
 - C#
 - C
 - SQL
+- ASP.NET
+- .NET MAUI
 - Unity
-- XAML
 
 ## Contact
-- **Discord**  Joelbu
+- **Discord**  joelbu

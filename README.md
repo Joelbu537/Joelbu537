@@ -4,10 +4,10 @@
 # Things I am learning:
 - C#
 - C
-- SQL
 - ASP.NET
 - .NET MAUI
 - Unity
+- SQL
 
 # Contact
 - **Discord**  joelbu
